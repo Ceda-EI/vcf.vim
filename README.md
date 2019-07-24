@@ -1,6 +1,6 @@
 # vcf.vim
 
-Filetype detection (based on extension) and folding for Virtual Card Files
+Filetype detection (based on extension) and folding for Virtual Contact Files
 (VCF)
 
 ## Installation
